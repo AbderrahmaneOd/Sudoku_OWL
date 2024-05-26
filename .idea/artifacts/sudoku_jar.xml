@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sudoku:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sudoku_jar</output-path>
+    <root id="archive" name="sudoku.jar">
+      <element id="module-output" name="sudoku" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.6.0/formsfx-core-11.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/collection-0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/httpcore-4.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-cli-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-csv-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-arq-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-iri-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-tdb-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/httpclient-4.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-base-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-cmds-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-core-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-tdb2-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/libthrift-0.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/slf4j-api-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-lang3-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jackson-core-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jsonld-java-0.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/slf4j-log4j12-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jcl-over-slf4j-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-dboe-base-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/httpclient-cache-4.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jackson-databind-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-dboe-index-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-shaded-guava-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jackson-annotations-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-rdfconnection-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-dboe-trans-data-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TPs/TP2/Atelier 2- semantic web/apache-jena-3.11.0/apache-jena-3.11.0/lib/jena-dboe-transaction-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
